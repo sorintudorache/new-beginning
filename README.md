@@ -37,7 +37,6 @@
       </p>
     <p>Types of color-receptive cones<br>
       present in the eye:</p>
-    
     <table>
       <tr>
         <th>species</th>
